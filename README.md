@@ -1,28 +1,23 @@
-![lld-banner](/resources/images/banner.png)
+## Low Level Design
 
 <p align="right">Last updated: 29.06.26, Mon</p>
 
-This repository contains all the resources needed to crack **LLD interviews** at big tech companies.<br>
-I am keeping my **notes** and all the **resources** I create and curate from various sources organized in one place.
-
-What you will find in this **repository**
-
-## Table of Contents 📚
+### Table of Contents
 
 - [Introduction](/introduction/)
 - [Object Oriented Programming](/oop/)
 - [Design Principles](/principles/)
 - [Design Patterns](/patterns/)
 
-## Introduction
+### Introduction
 
 - [What is LLD ?](/introduction/)
 
-## Object Oriented Programming
+### Object Oriented Programming
 
 - [Class & Object](/oop/classes-and-objects/)
 
-## Design Principles
+### Design Principles
 
 - [SOLID](/principles/solid/)
 - [DRY - Don't Repeat Yourself](/principles/dry/)
@@ -31,9 +26,9 @@ What you will find in this **repository**
 - [SOC - Separation of Concerns](/principles/soc/)
 - [LOD - Law of Demeter](/principles/lod/)
 
-## Design Patterns
+### Design Patterns
 
-| **Creational** 🏗                                          | **Behavioral** 🧠                           | **Structural** 🧩                            |
+| **Creational**                                             | **Behavioral**                              | **Structural**                               |
 | ---------------------------------------------------------- | ------------------------------------------- | -------------------------------------------- |
 | [Singleton](/patterns/creational/singleton/)               | [Strategy](/patterns/behavioural/strategy/) | [Adapter](/patterns/structural/adapter/)     |
 | [Factory](/patterns/creational/factory/)                   | [Observer](/patterns/behavioural/observer/) | [Proxy](/patterns/structural/proxy/)         |
@@ -41,11 +36,11 @@ What you will find in this **repository**
 | [Builder](/patterns/creational/builder/)                   | [Command](/patterns/behavioural/command/)   | [Decorator](/patterns/structural/decorator/) |
 | [Prototype](/patterns/creational/prototype/)               | [State](/patterns/behavioural/state/)       | [Composite](/patterns/structural/composite/) |
 
-## Multithreading & Concurrency
+### Multithreading & Concurrency
 
 Will Update soon ...
 
-## LLD Interview Problems
+### LLD Interview Problems
 
 **How to approach a LLD question in interview**
 
@@ -71,8 +66,7 @@ Will Update soon ...
 - [Ride Sharing App(Uber/ Ola)]()
 - [Rate Limiter]()
 
-
-## Concurrency Interview Problems
+### Concurrency Interview Problems
 
 - [Producer Consumer Problem]()
 - [Print Zero Even Odd]()
