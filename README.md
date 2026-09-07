@@ -42,12 +42,6 @@ Will Update soon ...
 
 ### LLD Interview Problems
 
-**How to approach a LLD question in interview**
-
-![](/resources/images/problems/steps-to-solve-problem.png)
-
-**Problems**
-
 - [Parking Lot](/problems/parking-lot/)
 - [Snake and Ladder]()
 - [Tic Tac Toe Game](/problems/tic-tac-toe/)
